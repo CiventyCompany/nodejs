@@ -1,0 +1,13 @@
+.DS_Store
+dist
+doc
+config/production.json
+config/default.json
+node_modules
+admin/node_modules
+swagger/
+.vscode
+.nyc_output
+coverage
+*.log
+npm-debug.log*

@@ -1,0 +1,25 @@
+{
+  "name": "admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "admin-on-rest": "^1.3.2",
+    "aor-rich-text-input": "^1.0.2",
+    "history": "^4.7.2",
+    "inflection": "^1.12.0",
+    "material-ui": "^0.19.4",
+    "moment": "^2.19.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-color": "^2.13.8",
+    "react-dom": "^16.0.0",
+    "redux-form": "^7.1.2",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "PORT=3001 ./node_modules/.bin/react-scripts start",
+    "build": "./node_modules/.bin/react-scripts build",
+    "test": "./node_modules/.bin/react-scripts test --env=jsdom",
+    "eject": "./node_modules/.bin/react-scripts eject"
+  }
+}

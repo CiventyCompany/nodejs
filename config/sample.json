@@ -1,0 +1,26 @@
+{
+  "app": {
+    "port": "3000"
+  },
+  "db": {
+    "name": "u-calendar",
+    "username": "root",
+    "password": "123",
+    "host": "localhost"
+  },
+  "jwt": {
+    "secret": "12312asd3"
+  },
+  "firebase": {
+    "type": "service_account",
+    "project_id": "u-calendar-b6514",
+    "private_key_id": "46413e49f7050c992dcdd98244c29b0ff068b756",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaKmBqag4stVp8\nZjnvlQE4OJ6bEfZFSVjv/KfHEKqS6474z8PzGeCSCkuGXRUIXenNxiY10zfbgDP1\n5JA6V3pgt8f4qVNcmI3xYzf/MjMFQvgr3rH8go2OwyNMjccUH401VAOsroOwPKSw\nHaucnJM0eG3wQIg0AgIHs9P3cOs5rcYgHElT1QwllyAVRqv8CISscqt/EDYS5McI\nxVoNENZ0pVrxwKwTbuKBUGRjAwCM1jfVXj1JFi85taBAa55EIcWDwmaXV4ZOnV7E\nPzHOQTbCPTkIF7d+s/aSOm0B0G8okxwtXEtF1oeDAMMITT9UnDRvk8m516447wDo\n+mdKXgotAgMBAAECggEACM4Iyasa+iS1cUtpXayV8D8Tl+mztgtVYAd/EZh7FX8M\noFtFZroAoHakD517WQn8E3uQrRxOIWQ2E4IlVp+uZp24dxQ8pZo06SdwiEu2rENB\n50eFxNUz/oZYmsOyLg0LRJNyzkb9UHB2O3TGW2B569JA/SrCXK4MraHwpj41wQp7\n+M47uYVOXsLtnM9z7uunUjc8UdQzrO18v6ruFKulL/eeQ1qAZ04HlHES07RtA5F5\n25ujhsY5ycxbHRZOsq4e/mb0SkY3zf1YDYILHDSm8V7lkAACrEVnbHeDOl2RkQ7Y\ntSYcNZebY7FeXh7WUTLz4qEbdSXQGfjLitJUFVTDRQKBgQDVkwlP7jOfbwiaNFOZ\nmii1ffrq0CHysi68iBdb1DurlZe3RSnN5UVXUM5x3mJghYUmeVm9A7IhR+/5RjLO\n5Ax3jGl9is5JbC4wHqQsC11cngSjBIMKCmzusFqEYKyJbIq5OzoTfbST7JtGgU7O\n+soj2TVem7qrnzJ7+D5bLNzadwKBgQC4yjRh/R81lSjuijiT9swG3Qpaf23rwXpa\n2vtuwgzrJ38FeuH7Qtsr88wRhBAgiryw/G/NdcM4jW1/e8zmA8Nj9BFkEyK1lhiX\nku1lOQX4gcujbSR2/jk8awJ3/gic2geU8UHKpQ8TcFE80Zkd7ubZ1QS/XKz2k+4R\n7WRfTllFewKBgQDMZcEWxzCOmFQSSJvtuDTXpW77RSAIRnEmK9S3JMHKsAsX8dBV\nZePb8dDx91QNbhuFO8QfeicDZPaMiZtcl7I6w5298ZcFe8wkb17NbD74wZ5MaagD\ndwDT2uF2KZNWnhORvNYTC05D98CPVHeY7TmB34INPlsDnwNQ077RwXjIdwKBgQCd\nj4vqoTEjNvOXsTNctmpwz7gsQcsv4eC5503LupnZR+v+eDCHVRIb/9xYcwptNN5+\n6j9KKMc0SSK8OIsU9NB9QXYypj5KJpkBZL4WOPDmW4WO61jUPSAAbB3GwkwFscIV\nNUCr0OFx6ara+Lxd0X307rUFlbfE541uq8ORn/RuUQKBgGLACFNiUUbxFPtHKAii\n907FpAfRcA4AN1n7ZEOqvHRoS6qe2RtifmrKU/fcmSK6fDH1fopCqGTRlnpayEEA\nQrQw2mAHbLrD7N1KsRHKXwSAgSJg/A9hoMnN0UR85W0K1bxh76mKZ2YrPd4+3ZJg\njVMRKTbi4zhQabP6QSCG+fec\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-nso65@u-calendar-b6514.iam.gserviceaccount.com",
+    "client_id": "116792748174433633664",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nso65%40u-calendar-b6514.iam.gserviceaccount.com"
+  }
+}

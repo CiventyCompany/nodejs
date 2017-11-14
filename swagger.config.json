@@ -1,0 +1,12 @@
+{
+  "swagger": {
+    "outputDirectory": "./swagger",
+    "entryFile": "./src/index.ts",
+    "name": "Uteka Calendar API",
+    "description": "A Sample application using Typescipt-rest library",
+    "license": "MIT",
+    "basePath": "/v1/admin",
+    "produces": ["application/json"],
+    "version": "0.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+[Service]
+WorkingDirectory=/home/dev_civenty/projects/calendar-app
+ExecStart=/home/dev_civenty/projects/calendar-app/node_modules/.bin/yarn start:production
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=calendar
+User=dev_civenty
+Group=dev_civenty
+
+[Install]
+WantedBy=multi-user.target
+
